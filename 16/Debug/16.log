@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  16.cpp
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(26): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(26): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(26): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(26): note: esse argumento é usado como um tamanho do buffer
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(34): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(34): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(34): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\16\16.cpp(34): note: esse argumento é usado como um tamanho do buffer
+  16.vcxproj -> d:\Users\strat\Documents\GitHub\Algoritmos_II\Exercicios de Fixacao\Debug\16.exe

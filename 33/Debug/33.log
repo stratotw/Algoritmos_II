@@ -1,0 +1,5 @@
+﻿  33.cpp
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\33\33.cpp(7): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\33\33.cpp(10): warning C4305: '+=': truncamento de 'double' para 'float'
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\33\33.cpp(11): warning C4305: '+=': truncamento de 'double' para 'float'
+  33.vcxproj -> d:\Users\strat\Documents\GitHub\Algoritmos_II\Exercicios de Fixacao\Debug\33.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  11.cpp
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\11\11.cpp(7): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  11.vcxproj -> d:\Users\strat\Documents\GitHub\Algoritmos_II\Exercicios de Fixacao\Debug\11.exe
