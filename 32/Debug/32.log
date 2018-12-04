@@ -1,0 +1,4 @@
+﻿  32.cpp
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\32\32.cpp(7): warning C4101: 'perc_sal': variável local não referenciada
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\32\32.cpp(6): warning C4101: 'cem': variável local não referenciada
+  32.vcxproj -> d:\Users\strat\Documents\GitHub\Algoritmos_II\Exercicios de Fixacao\Debug\32.exe

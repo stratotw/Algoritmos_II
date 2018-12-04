@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  19.cpp
+d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\19\19.cpp(32): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  d:\users\strat\documents\github\algoritmos_ii\exercicios de fixacao\19\19.cpp(32): note: espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+  19.vcxproj -> d:\Users\strat\Documents\GitHub\Algoritmos_II\Exercicios de Fixacao\Debug\19.exe
